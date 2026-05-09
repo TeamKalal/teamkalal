@@ -3,6 +3,7 @@
   
   <a href="https://ewron.atabook.org">ata</a>⠀⠀
   <a href="https://rentry.co/LettyK">rentry</a>⠀⠀
+  <a href="https://pronouns.cc/@pm">pronouns.cc</a>⠀⠀
   <a href="https://guns.lol/qsmp">guns.lol</a>
 </div>
 
