@@ -7,11 +7,9 @@
   <a href="https://guns.lol/qsmp">guns.lol</a>
 </div>
 
-⠀
-
-indefinite hiatus and self explanatory reason
-
-yes these are my gimmick accounts @lamanchaland and @sososhauns (not hyperlinking this time)
+<div align="center">
+  <img width="420" alt="Screenshot_2026-05-14-22-39-17-98_a1b63f0b178142b982816dcaa9e2dd8b" src="https://github.com/user-attachments/assets/c7c8024f-42b5-4cea-b3bf-63965cbcc11b" />
+</div>
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true">
