@@ -9,9 +9,14 @@
   <picture>
     <img width="200" height="200" alt="haiper" src="https://github.com/user-attachments/assets/441fc7c7-1c20-48d1-b9fd-fe9759c86986" />
   </picture>
-
+</div>
+<div align="center">
   ac: me/myself
-  
+
+  ⠀⠀
+</div>
+
+<div align="center">
   psa: i am going to leave 
   <a href="https://docs.google.com/document/d/1l9wqO7RSlZdLtcDmCRFu96PfntmufOgiTJYO4uyzyA0/edit?tab=t.0">
     this docs for a while in my profile to do something or help my friends situation.</a>
