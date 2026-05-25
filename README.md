@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  psa: The Google Docs? It's gone. I've seen everything, yet I still don't have a single clue where'd it all go. But I do know who to put blame on. I am always listening.
+  psa: The Google Docs? It's gone. I've seen everything, yet I still don't have a single clue why is it all gone and empty. But I do know who to put blame on. I am always listening.
   
    Also, Happy Mental Health Awareness Month. It's coming into an end
 </div>
