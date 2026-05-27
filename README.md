@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?user=puqitv&repo=puqitv&label=null&labelColor=%23FF0000&countColor=%23FF0000&style=flat&leftCount=10940"/>
+</div>
+<div align="center">
   <picture>
     <img width="300" height="300" alt="jamatop" src="https://github.com/user-attachments/assets/4e59acf3-47da-4eb5-a6b0-bc259905d506" />
   </picture>
